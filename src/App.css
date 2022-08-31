@@ -1,0 +1,13 @@
+*{
+  text-align: center;
+  margin: 1px;
+  padding: 1px;
+}
+
+button{
+  font-weight: bolder;
+  border-radius: 20px;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
